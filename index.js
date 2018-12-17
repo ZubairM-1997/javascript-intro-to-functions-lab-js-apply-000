@@ -27,5 +27,5 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
   
-  return "Did you eat enough?"
+  
 }
